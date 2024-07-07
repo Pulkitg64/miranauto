@@ -1,9 +1,17 @@
-import React from "react";
+import React from 'react'
+import Navbar from './components/Navbar'
+import HeroSection from './components/HeroSection'
+import Footer from './components/Footer'
 
 const App = () => {
-
   return (
-    <h1 className="text-1xl font-bold">Hello world!</h1>
+    <>
+    <Navbar/>
+    <div className="max-w-7xl mx-auto pt-20 px-6">
+        <HeroSection />
+        <Footer/>
+    </div>
+    </>
   )
 }
 
