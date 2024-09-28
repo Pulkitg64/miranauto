@@ -21,7 +21,7 @@ const Footer = () => {
 
                     <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Email</h2>
                     <p class="mt-2 text-gray-500 dark:text-gray-400">Email us at: </p>
-                    <p class="mt-2 text-gray-500 dark:text-gray-400">gargavi44@gmail.com</p>
+                    <p class="mt-2 text-gray-500 dark:text-gray-400">info@miraanauto.com</p>
                 </div>
 
                 <div>
